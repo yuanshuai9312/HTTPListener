@@ -1,0 +1,6 @@
+D:\code11\SimpleHttpServer\bin\Debug\SimpleHttpServer.exe
+D:\code11\SimpleHttpServer\bin\Debug\SimpleHttpServer.pdb
+D:\code11\SimpleHttpServer\obj\Debug\SimpleHttpServer.csprojAssemblyReference.cache
+D:\code11\SimpleHttpServer\obj\Debug\SimpleHttpServer.csproj.CoreCompileInputs.cache
+D:\code11\SimpleHttpServer\obj\Debug\SimpleHttpServer.exe
+D:\code11\SimpleHttpServer\obj\Debug\SimpleHttpServer.pdb

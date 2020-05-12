@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsService.HttpWebServer", "WindowsService.HttpWebServer\WindowsService.HttpWebServer.csproj", "{07D30AC9-340F-4F85-AA4C-01480FFFAB82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsService.Client", "WindowsService.Client\WindowsService.Client.csproj", "{467D6D79-64BA-47C9-8465-D3FAE5314C9F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "WindowsService.Setup", "WindowsService.Setup\WindowsService.Setup.vdproj", "{D61D92AA-0648-43E0-AC32-F71AD3A80494}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07D30AC9-340F-4F85-AA4C-01480FFFAB82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07D30AC9-340F-4F85-AA4C-01480FFFAB82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07D30AC9-340F-4F85-AA4C-01480FFFAB82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07D30AC9-340F-4F85-AA4C-01480FFFAB82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{467D6D79-64BA-47C9-8465-D3FAE5314C9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{467D6D79-64BA-47C9-8465-D3FAE5314C9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{467D6D79-64BA-47C9-8465-D3FAE5314C9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{467D6D79-64BA-47C9-8465-D3FAE5314C9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D61D92AA-0648-43E0-AC32-F71AD3A80494}.Debug|Any CPU.ActiveCfg = Debug
+		{D61D92AA-0648-43E0-AC32-F71AD3A80494}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

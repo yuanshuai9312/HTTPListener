@@ -1,0 +1,14 @@
+C:\Users\hzd\Desktop\sourceCode\Aocwes.MainConsole\bin\Debug\Aocwes.MainConsole.exe.config
+C:\Users\hzd\Desktop\sourceCode\Aocwes.MainConsole\bin\Debug\Aocwes.MainConsole.exe
+C:\Users\hzd\Desktop\sourceCode\Aocwes.MainConsole\bin\Debug\Aocwes.MainConsole.pdb
+C:\Users\hzd\Desktop\sourceCode\Aocwes.MainConsole\bin\Debug\Aocwes.Model.dll
+C:\Users\hzd\Desktop\sourceCode\Aocwes.MainConsole\bin\Debug\Aocwes.Model.pdb
+C:\Users\hzd\Desktop\sourceCode\Aocwes.MainConsole\obj\x86\Debug\Aocwes.MainConsole.csprojResolveAssemblyReference.cache
+C:\Users\hzd\Desktop\sourceCode\Aocwes.MainConsole\obj\x86\Debug\Aocwes.MainConsole.exe
+C:\Users\hzd\Desktop\sourceCode\Aocwes.MainConsole\obj\x86\Debug\Aocwes.MainConsole.pdb
+C:\Users\hzd\Desktop\厦航出图\sourceCode\Aocwes.MainConsole\bin\Debug\Aocwes.MainConsole.exe.config
+C:\Users\hzd\Desktop\厦航出图\sourceCode\Aocwes.MainConsole\obj\x86\Debug\Aocwes.MainConsole.exe
+C:\Users\hzd\Desktop\厦航出图\sourceCode\Aocwes.MainConsole\obj\x86\Debug\Aocwes.MainConsole.pdb
+D:\厦航出图\sourceCode\Aocwes.MainConsole\bin\Debug\Aocwes.MainConsole.exe.config
+D:\厦航出图\sourceCode\Aocwes.MainConsole\obj\x86\Debug\Aocwes.MainConsole.exe
+D:\厦航出图\sourceCode\Aocwes.MainConsole\obj\x86\Debug\Aocwes.MainConsole.pdb

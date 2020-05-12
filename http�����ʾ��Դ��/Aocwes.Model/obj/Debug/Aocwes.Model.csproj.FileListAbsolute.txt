@@ -1,0 +1,5 @@
+C:\Users\hzd\Desktop\sourceCode\Aocwes.Model\bin\Debug\Aocwes.Model.dll
+C:\Users\hzd\Desktop\sourceCode\Aocwes.Model\bin\Debug\Aocwes.Model.pdb
+C:\Users\hzd\Desktop\sourceCode\Aocwes.Model\obj\Debug\Aocwes.Model.csprojResolveAssemblyReference.cache
+C:\Users\hzd\Desktop\sourceCode\Aocwes.Model\obj\Debug\Aocwes.Model.dll
+C:\Users\hzd\Desktop\sourceCode\Aocwes.Model\obj\Debug\Aocwes.Model.pdb

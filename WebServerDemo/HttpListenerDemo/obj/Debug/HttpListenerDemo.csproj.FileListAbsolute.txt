@@ -1,0 +1,13 @@
+E:\Test\HttpListenerDemo\HttpListenerDemo\obj\Debug\HttpListenerDemo.csprojResolveAssemblyReference.cache
+E:\Test\HttpListenerDemo\HttpListenerDemo\bin\Debug\HttpListenerDemo.exe
+E:\Test\HttpListenerDemo\HttpListenerDemo\bin\Debug\HttpListenerDemo.pdb
+E:\Test\HttpListenerDemo\HttpListenerDemo\obj\Debug\HttpListenerDemo.exe
+E:\Test\HttpListenerDemo\HttpListenerDemo\obj\Debug\HttpListenerDemo.pdb
+E:\oschina\HttpListenerDemo\HttpListenerDemo\obj\Debug\HttpListenerDemo.exe
+E:\oschina\HttpListenerDemo\HttpListenerDemo\obj\Debug\HttpListenerDemo.pdb
+E:\oschina\HttpListenerDemo\HttpListenerDemo\bin\Debug\HttpListenerDemo.exe
+E:\oschina\HttpListenerDemo\HttpListenerDemo\bin\Debug\HttpListenerDemo.pdb
+E:\oschina\HttpListenerDemo\HttpListenerDemo\obj\Debug\HttpListenerDemo.csprojResolveAssemblyReference.cache
+E:\oschina\HttpListenerDemo\HttpListenerDemo\bin\Debug\lua51.dll
+E:\oschina\HttpListenerDemo\HttpListenerDemo\bin\Debug\LuaInterface.dll
+E:\oschina\HttpListenerDemo\HttpListenerDemo\bin\Debug\HttpListenerDemo.exe.config

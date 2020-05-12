@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modules", "Modules", "{0108E9B4-9FA9-44B4-AD52-E8DEFC5FAAE9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Unittest", "Unittest", "{C49A9627-8FD7-4389-B844-17DFF4E175CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aocwes.MainConsole", "Aocwes.MainConsole\Aocwes.MainConsole.csproj", "{C757E45C-EBCA-48C1-8BB3-F42F97254EA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aocwes.Model", "Aocwes.Model\Aocwes.Model.csproj", "{7840E113-3A2D-44B5-96C4-0037AA16F62E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Model", "Model", "{F08CD0CB-ABDD-4DE5-845A-A5AF84BCC973}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs10
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Aocwes.MainConsole\\Aocwes.MainConsole.csproj
+		SccProjectName1 = Aocwes.MainConsole
+		SccLocalPath1 = Aocwes.MainConsole
+		SccProjectUniqueName2 = Aocwes.Model\\Aocwes.Model.csproj
+		SccProjectTopLevelParentUniqueName2 = Aocwes.sln
+		SccProjectName2 = Aocwes.Model
+		SccLocalPath2 = Aocwes.Model
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C757E45C-EBCA-48C1-8BB3-F42F97254EA5}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{C757E45C-EBCA-48C1-8BB3-F42F97254EA5}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{C757E45C-EBCA-48C1-8BB3-F42F97254EA5}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{C757E45C-EBCA-48C1-8BB3-F42F97254EA5}.Debug|x86.ActiveCfg = Debug|x86
+		{C757E45C-EBCA-48C1-8BB3-F42F97254EA5}.Debug|x86.Build.0 = Debug|x86
+		{C757E45C-EBCA-48C1-8BB3-F42F97254EA5}.Release|Any CPU.ActiveCfg = Release|x86
+		{C757E45C-EBCA-48C1-8BB3-F42F97254EA5}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{C757E45C-EBCA-48C1-8BB3-F42F97254EA5}.Release|Mixed Platforms.Build.0 = Release|x86
+		{C757E45C-EBCA-48C1-8BB3-F42F97254EA5}.Release|x86.ActiveCfg = Release|x86
+		{C757E45C-EBCA-48C1-8BB3-F42F97254EA5}.Release|x86.Build.0 = Release|x86
+		{7840E113-3A2D-44B5-96C4-0037AA16F62E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7840E113-3A2D-44B5-96C4-0037AA16F62E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7840E113-3A2D-44B5-96C4-0037AA16F62E}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{7840E113-3A2D-44B5-96C4-0037AA16F62E}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{7840E113-3A2D-44B5-96C4-0037AA16F62E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{7840E113-3A2D-44B5-96C4-0037AA16F62E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7840E113-3A2D-44B5-96C4-0037AA16F62E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7840E113-3A2D-44B5-96C4-0037AA16F62E}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{7840E113-3A2D-44B5-96C4-0037AA16F62E}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{7840E113-3A2D-44B5-96C4-0037AA16F62E}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7840E113-3A2D-44B5-96C4-0037AA16F62E} = {F08CD0CB-ABDD-4DE5-845A-A5AF84BCC973}
+	EndGlobalSection
+EndGlobal
